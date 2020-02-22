@@ -1,6 +1,5 @@
 def my_hash
-    my_hash = {
-    "my_name" => "sean",
+    my_hash = {"my_name" => "sean",
     "my_height" => "9 feet 10 inches",
     "my_weight" => "300 Kilograms",
   }
